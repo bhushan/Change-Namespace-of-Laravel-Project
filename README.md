@@ -1,4 +1,6 @@
-# Changing Laravel 6 namespace
+# Changing Laravel Project Namespace
+
+Supports : Laravel 6.x, 7.x
 
 First we create the command with
 
